@@ -1,2 +1,4 @@
 # Mobile_Sales_Dashboard_PowerBi
-This Power BI dashboard visualizes mobile phone sales data to provide insights into sales performance, customer behavior, and revenue trends. It includes interactive charts and KPIs for tracking units sold, top-performing brands, customer demographics, and payment methods, enabling data-driven decision-making for sales optimization.
+This project presents an interactive dashboard built in Power BI to analyze mobile phone sales data. It highlights key metrics such as total sales, units sold, customer demographics, and top brands. The dashboard helps in understanding sales trends, customer preferences, and supports data-driven decision-making.
+
+.
